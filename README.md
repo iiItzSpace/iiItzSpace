@@ -17,6 +17,6 @@ I’m 18 and I’m studying Computer Systems Engineering 💻. I love programmin
 - **Other Skills:** Version Control (Git, GitLab, GitHub), Relational Databases, Responsive Design
 
 #### What can I develop ❓
-- CLI Tools.
-- Web Pages.
+- CLI Tools
+- Web Pages
 - Native Android Apps with Java and XML.
