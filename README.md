@@ -19,4 +19,4 @@ I’m 18 and I’m studying Computer Systems Engineering 💻. I love programmin
 #### What can I develop ❓
 - CLI Tools
 - Web Pages
-- Native Android Apps with Java and XML.
+- Native Android Apps with Java and XML
